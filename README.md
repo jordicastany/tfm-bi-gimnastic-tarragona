@@ -22,4 +22,4 @@ A BI model built in Power BI that cross-references sporting data (BeSoccer Pro) 
 The dataset used in this project is simulated for academic purposes.
 
 ## Dashboard & Visualizations
-All Power BI dashboards and visualizations (audience distribution, EMV analysis, ROI comparison, etc.) are included within the full thesis document — see TFM_JCM.pdf.
+All Power BI dashboards and visualizations (audience distribution, EMV analysis, ROI comparison, etc.) are included within the full thesis document — see TFM_JCM.pdf. A summarized presentation of the project is also available in `Presentation_TFM.pdf`.
